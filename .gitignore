@@ -4,5 +4,3 @@ __pycache__
 main.py
 book.db
 requirements.txt
-server/__pycache__
-server/book/__pycache__
